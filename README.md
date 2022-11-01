@@ -1,2 +1,2 @@
 # Transformes-Batalha
- Uma batalha no console 
+ Uma batalha no terminal.
